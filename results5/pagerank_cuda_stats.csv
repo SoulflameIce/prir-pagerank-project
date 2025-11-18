@@ -1,0 +1,6 @@
+graph,N,nnz,iterations,total_time,spmv_time,MTEPS,GFLOPS
+graphs/graph1.txt,10,85,1,5.5e-05,8e-06,1.54545,0.00309091
+graphs/graph2.txt,100,992,1,4e-05,7e-06,24.8,0.0496
+graphs/graph3.txt,1000,9989,1,3.7e-05,7e-06,269.973,0.539946
+graphs/graph4.txt,10000,99989,1,5.9e-05,1e-05,1694.73,3.38946
+graphs/graph5.txt,100000,999992,1,0.000385,0.000335,2597.38,5.19476
